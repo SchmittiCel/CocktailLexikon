@@ -4,14 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cocktail Lexikon</title>
-    </head>
-<body style="margin:0; padding:0; background:#1a1a1a;">
+</head>
+<body style="margin: 0; background-color: #1a1a1a; color: white;">
 
-    <div id="cl-app-root"></div>
+    <div id="cocktail-app-root"></div>
 
     <script>
-        // Falls dein Skript die Variable 'container' erwartet (wie im Obsidian-Snippet):
-        const container = document.getElementById('cl-app-root');
+        // Wir definieren die globale Variable 'container', 
+        // die dein Skript am Anfang sucht:
+        const container = document.getElementById('cocktail-app-root');
+        
+        // Da dein Skript eventuell noch 'context' oder 'app' abfragt,
+        // definieren wir diese als leere Objekte, damit es nicht abstürzt:
+        const context = { file: { path: "/" } };
+        const app = { vault: { adapter: {} } };
     </script>
 
     <script src="cocktail-lexikon.js"></script>
