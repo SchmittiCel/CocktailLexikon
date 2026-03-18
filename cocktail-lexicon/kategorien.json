@@ -1,0 +1,120 @@
+[
+  {
+    "id": "k1",
+    "name": "Rum",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "unterkategorien": [
+      "Weißrum",
+      "Brauner Rum",
+      "Rum Agricole",
+      "Overproof Rum",
+      "Spiced Rum"
+    ]
+  },
+  {
+    "id": "k2",
+    "name": "Gin",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "unterkategorien": [
+      "London Dry Gin",
+      "New Western Gin",
+      "Sloe Gin",
+      "Old Tom Gin"
+    ]
+  },
+  {
+    "id": "k3",
+    "name": "Vodka",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "unterkategorien": [
+      "Standard",
+      "Premium",
+      "Flavoured"
+    ]
+  },
+  {
+    "id": "k4",
+    "name": "Whiskey",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "unterkategorien": [
+      "Bourbon",
+      "Irish Whiskey",
+      "Scotch Single Malt",
+      "Scotch Blended",
+      "Rye Whiskey",
+      "Tennessee Whiskey"
+    ]
+  },
+  {
+    "id": "k5",
+    "name": "Likör",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "unterkategorien": [
+      "Triple Sec / Orange",
+      "Kaffeelikör",
+      "Mandellikör",
+      "Cream Liqueur",
+      "Kräuterlikör"
+    ]
+  },
+  {
+    "id": "k6",
+    "name": "Aperitif / Bitter",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "unterkategorien": [
+      "Aperol-Stil",
+      "Campari-Stil",
+      "Wermut"
+    ]
+  },
+  {
+    "id": "k7",
+    "name": "Tequila / Mezcal",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "unterkategorien": [
+      "Blanco",
+      "Reposado",
+      "Añejo",
+      "Mezcal"
+    ]
+  },
+  {
+    "id": "k8",
+    "name": "Sirup",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "unterkategorien": [
+      "Zuckersirup",
+      "Fruchtsirup",
+      "Kräutersirup",
+      "Spezialsirup"
+    ]
+  },
+  {
+    "id": "k9",
+    "name": "Saft",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "unterkategorien": [
+      "Zitrusfrüchte",
+      "Tropisch",
+      "Beeren"
+    ]
+  },
+  {
+    "id": "k10",
+    "name": "Frisch / Kräuter",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "unterkategorien": [
+      "Kräuter",
+      "Früchte",
+      "Gewürze"
+    ]
+  },
+  {
+    "id": "k1773685866827d5m",
+    "name": "Cocktail",
+    "unterkategorien": [
+      "Sour-Style"
+    ],
+    "createdAt": "2026-03-16T18:31:06.827Z"
+  }
+]

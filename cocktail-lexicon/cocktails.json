@@ -1,0 +1,276 @@
+[
+  {
+    "id": "c001",
+    "name": "Mojito",
+    "kategorie": "Longdrink",
+    "methode": "Muddled",
+    "glas": "Mojito-Glas (Tumbler)",
+    "eis": "Crushed Ice",
+    "deko": "Minzzweig, Limettenspalte",
+    "aufKarte": false,
+    "ingredients": [
+      {
+        "id": "z001",
+        "menge": 50,
+        "einheit": "ml"
+      },
+      {
+        "id": "z006",
+        "menge": 25,
+        "einheit": "ml"
+      },
+      {
+        "id": "z007",
+        "menge": 20,
+        "einheit": "ml"
+      },
+      {
+        "id": "z008",
+        "menge": 0.1,
+        "einheit": "Stück"
+      },
+      {
+        "id": "z009",
+        "menge": 80,
+        "einheit": "ml"
+      }
+    ],
+    "zubereitung": "Minzblätter mit Limettensaft und Zuckersirup im Glas muddeln\nCrushed Ice ins Glas füllen\nRum dazugeben und kurz rühren\nMit Sodawasser auffüllen\nMinzzweig und Limettenspalte als Deko",
+    "notizen": "Minze nicht zu fest muddeln – nur leicht andrücken, um ätherische Öle freizusetzen. Für einen Royal Mojito Prosecco statt Sodawasser verwenden."
+  },
+  {
+    "id": "c002",
+    "name": "Aperol Spritz",
+    "kategorie": "Spritz",
+    "methode": "Build in Glass",
+    "glas": "Weinglas",
+    "eis": "Würfeleis",
+    "deko": "Orangenscheibe",
+    "aufKarte": true,
+    "ingredients": [
+      {
+        "id": "z010",
+        "menge": 90,
+        "einheit": "ml"
+      },
+      {
+        "id": "z011",
+        "menge": 60,
+        "einheit": "ml"
+      },
+      {
+        "id": "z009",
+        "menge": 30,
+        "einheit": "ml"
+      }
+    ],
+    "zubereitung": "Weinglas mit Eiswürfeln füllen\nProsecco einfüllen\nAperol dazugeben\nSanft mit Sodawasser auffüllen\nOrangenscheibe dekorieren",
+    "notizen": "Das klassische Verhältnis ist 3-2-1 (Prosecco-Aperol-Soda). Nicht umrühren – der Farbverlauf ist Teil des Getränks.",
+    "updatedAt": "2026-03-16T17:50:57.080Z",
+    "preis": 6.5
+  },
+  {
+    "id": "c003",
+    "name": "Negroni",
+    "kategorie": "Aperitif",
+    "methode": "Stirred (Gerührt)",
+    "glas": "Rocks-Glas (Old Fashioned)",
+    "eis": "Großwürfel (2×2 cm)",
+    "deko": "Orangenzeste",
+    "aufKarte": true,
+    "ingredients": [
+      {
+        "id": "z003",
+        "menge": 30,
+        "einheit": "ml"
+      },
+      {
+        "id": "z014",
+        "menge": 30,
+        "einheit": "ml"
+      },
+      {
+        "id": "z015",
+        "menge": 30,
+        "einheit": "ml"
+      }
+    ],
+    "zubereitung": "Alle Zutaten in einem Rührglas mit viel Eis ca. 30 Sekunden rühren\nIn das vorgekühlte Rocks-Glas mit Großwürfel abseihen\nOrangenzeste über dem Glas ausdrücken und als Deko am Rand platzieren",
+    "notizen": "Ein perfekter Negroni lebt vom Gleichgewicht. Niemals shaken – das würde den Drink trüb machen. Variation: Boulevardier (Bourbon statt Gin)."
+  },
+  {
+    "id": "c1773672622699pyf",
+    "name": "Test",
+    "kategorie": "",
+    "methode": "",
+    "glas": "",
+    "eis": "",
+    "deko": "",
+    "zubereitung": "",
+    "notizen": "",
+    "aufKarte": false,
+    "ingredients": [
+      {
+        "id": "z006",
+        "menge": 30,
+        "einheit": "ml"
+      }
+    ]
+  },
+  {
+    "id": "c1773685847355yg2",
+    "name": "Test",
+    "kategorie": "Cocktail",
+    "unterkategorie": "Sour-Style",
+    "methode": "Shaken",
+    "glas": "Tumbler (Mojito)",
+    "eis": "Würfeleis",
+    "deko": "",
+    "zubereitung": "Test",
+    "notizen": "Testasd",
+    "aufKarte": true,
+    "ingredients": [
+      {
+        "id": "z001",
+        "menge": 60,
+        "einheit": "ml",
+        "isCategory": false,
+        "isBasic": false
+      },
+      {
+        "id": "z006",
+        "menge": 30,
+        "einheit": "ml",
+        "isCategory": false,
+        "isBasic": false
+      },
+      {
+        "id": "z007",
+        "menge": 20,
+        "einheit": "ml",
+        "isCategory": false,
+        "isBasic": false
+      }
+    ],
+    "geschmack": [
+      "Sauer",
+      "Süß"
+    ],
+    "typOverride": "",
+    "preis": null,
+    "createdAt": "2026-04-15T20:16:37.610Z",
+    "updatedAt": "2026-03-16T20:16:20.155Z"
+  },
+  {
+    "id": "c1773686788663lj1",
+    "name": "Test",
+    "kategorie": "Rum",
+    "unterkategorie": "",
+    "methode": "",
+    "glas": "",
+    "eis": "",
+    "deko": "",
+    "zubereitung": "",
+    "notizen": "",
+    "aufKarte": true,
+    "ingredients": [
+      {
+        "id": "z001",
+        "menge": 1,
+        "einheit": "ml",
+        "isCategory": false,
+        "isBasic": false
+      }
+    ],
+    "geschmack": [],
+    "typOverride": "",
+    "preis": 3,
+    "createdAt": "2026-04-15T20:16:39.634Z",
+    "updatedAt": "2026-03-16T18:46:52.655Z"
+  },
+  {
+    "id": "c1773741285716zr7",
+    "name": "Testttt",
+    "kategorie": "Rum",
+    "unterkategorie": "Overproof Rum",
+    "methode": "Stirred (Gerührt)",
+    "glas": "Hurricane-Glas",
+    "eis": "Würfeleis",
+    "deko": "",
+    "zubereitung": "Ffff\nGggg\nHhh",
+    "notizen": "",
+    "aufKarte": true,
+    "ingredients": [
+      {
+        "id": "z002",
+        "menge": 60,
+        "einheit": "ml",
+        "isCategory": false,
+        "isBasic": false
+      },
+      {
+        "id": "z006",
+        "menge": 30,
+        "einheit": "ml",
+        "isCategory": false,
+        "isBasic": false
+      },
+      {
+        "id": "z007",
+        "menge": 20,
+        "einheit": "ml",
+        "isCategory": false,
+        "isBasic": false
+      }
+    ],
+    "geschmack": [],
+    "typOverride": "",
+    "preis": null,
+    "createdAt": "2026-03-17T09:54:45.716Z",
+    "updatedAt": "2026-03-17T09:57:12.284Z"
+  },
+  {
+    "id": "c1773761316490akx",
+    "name": "Daiquri",
+    "kategorie": "Cocktail",
+    "unterkategorie": "Sour-Style",
+    "methode": "Shaken",
+    "glas": "",
+    "eis": "",
+    "deko": "Ljmettenscheibe",
+    "zubereitung": "Alles jn den Shaker gießen\nShake it\nFine-Strain jn das Tumblerglas\ndekorieren mjt getrockneter Ljmettenscheibe",
+    "notizen": "Huhu",
+    "aufKarte": true,
+    "ingredients": [
+      {
+        "id": "z002",
+        "menge": 60,
+        "einheit": "ml",
+        "isCategory": false,
+        "isBasic": false
+      },
+      {
+        "id": "z006",
+        "menge": 30,
+        "einheit": "ml",
+        "isCategory": false,
+        "isBasic": false
+      },
+      {
+        "id": "z007",
+        "menge": 20,
+        "einheit": "ml",
+        "isCategory": false,
+        "isBasic": false
+      }
+    ],
+    "geschmack": [
+      "Sauer",
+      "Frisch"
+    ],
+    "typOverride": "",
+    "preis": null,
+    "createdAt": "2026-03-17T15:28:36.490Z",
+    "updatedAt": "2026-03-17T15:31:02.234Z"
+  }
+]

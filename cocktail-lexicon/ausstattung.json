@@ -1,0 +1,44 @@
+{
+  "glaeser": [
+    { "id": "a1", "name": "Highball-Glas", "beschreibung": "Longdrinks, 300–400 ml", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "a2", "name": "Rocks-Glas (Old Fashioned)", "beschreibung": "Whiskey, On the Rocks", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "a3", "name": "Martini-Glas", "beschreibung": "Cocktails ohne Eis", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "a4", "name": "Coup-Glas", "beschreibung": "Retro, Sours & Fizzes", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "a5", "name": "Tumbler (Mojito)", "beschreibung": "Hoher Tumbler, 400 ml", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "a6", "name": "Weinglas", "beschreibung": "Spritz, Sangria", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "a7", "name": "Hurricane-Glas", "beschreibung": "Tropische Cocktails", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "a8", "name": "Sektflöte", "beschreibung": "Champagner-Cocktails", "createdAt": "2025-01-01T00:00:00.000Z" }
+  ],
+  "eistypen": [
+    { "id": "e1", "name": "Würfeleis", "beschreibung": "Standard", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "e2", "name": "Crushed Ice", "beschreibung": "Gestoßen, für Mojito/Frozen", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "e3", "name": "Großwürfel (2×2 cm)", "beschreibung": "Whiskey, langsam schmelzend", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "e4", "name": "Kein Eis", "beschreibung": "Pur serviert", "createdAt": "2025-01-01T00:00:00.000Z" }
+  ],
+  "methoden": [
+    { "id": "m1", "name": "Shaken", "beschreibung": "Im Shaker mit Eis schütteln", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "m2", "name": "Stirred (Gerührt)", "beschreibung": "Im Rührglas mit Eis rühren", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "m3", "name": "Build in Glass", "beschreibung": "Direkt im Glas zubereiten", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "m4", "name": "Muddled", "beschreibung": "Zutaten im Glas stampfen", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "m5", "name": "Blend", "beschreibung": "Im Mixer pürieren", "createdAt": "2025-01-01T00:00:00.000Z" }
+  ],
+  "deko": [
+    { "id": "d1", "name": "Limettenspalte", "beschreibung": "", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "d2", "name": "Minzzweig", "beschreibung": "Frisch, klatschend", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "d3", "name": "Orangenscheibe", "beschreibung": "", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "d4", "name": "Cocktailkirsche", "beschreibung": "Maraschino", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "d5", "name": "Salzrand", "beschreibung": "Für Margarita etc.", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "d6", "name": "Edible Flower", "beschreibung": "Essbare Blüte", "createdAt": "2025-01-01T00:00:00.000Z" }
+  ],
+  "geschmack": [
+    { "id": "g1", "name": "Süß", "beschreibung": "", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "g2", "name": "Sauer", "beschreibung": "", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "g3", "name": "Bitter", "beschreibung": "", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "g4", "name": "Fruchtig", "beschreibung": "", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "g5", "name": "Frisch", "beschreibung": "", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "g6", "name": "Würzig", "beschreibung": "", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "g7", "name": "Cremig", "beschreibung": "", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "g8", "name": "Tropisch", "beschreibung": "", "createdAt": "2025-01-01T00:00:00.000Z" },
+    { "id": "g9", "name": "Rauchig", "beschreibung": "", "createdAt": "2025-01-01T00:00:00.000Z" }
+  ]
+}

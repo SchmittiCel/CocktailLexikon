@@ -1,0 +1,31 @@
+{
+  "accentColor": "#8325d0",
+  "zielMarge": 75,
+  "ust": 19,
+  "editMode": false,
+  "useCl": true,
+  "showImagesGrid": true,
+  "mixerPreis": 0.3,
+  "missingIngWarning": true,
+  "cols": {
+    "ing_kategorie": true,
+    "ing_packung": true,
+    "ing_ek": true,
+    "ing_ppu": true,
+    "spir_kategorie": true,
+    "spir_packung": true,
+    "spir_ek": true,
+    "spir_ppu": true,
+    "spir_2cl": true,
+    "lng_kategorie": true,
+    "lng_mixer": true,
+    "lng_we": true,
+    "lng_vkCalc": true,
+    "bas_kategorie": true,
+    "bas_packung": true,
+    "bas_ek": true,
+    "bas_ppu": true,
+    "ing_2cl": true
+  },
+  "missingIngHideFilter": true
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "bas1773685731814riu",
+    "name": "Loscher Pils",
+    "kategorie": "Bier",
+    "einheit": "l",
+    "packMenge": 30,
+    "packPreis": 50,
+    "bruttoFlag": true,
+    "ustSatz": 19,
+    "aufLager": true,
+    "createdAt": "2026-03-16T18:28:51.815Z",
+    "updatedAt": "2026-03-17T09:13:37.041Z",
+    "serviergroessen": [
+      {
+        "label": "0,3",
+        "menge": 0,
+        "preis": 3.5
+      },
+      {
+        "label": "0,5",
+        "menge": 0,
+        "preis": 5
+      }
+    ],
+    "alkoholfrei": false
+  },
+  {
+    "id": "bas17736900865247dj",
+    "name": "Coca Cola",
+    "kategorie": "Softdrink",
+    "einheit": "l",
+    "packMenge": 1,
+    "packPreis": 1.5,
+    "bruttoFlag": true,
+    "ustSatz": 19,
+    "aufLager": true,
+    "alkoholfrei": true,
+    "serviergroessen": [
+      {
+        "label": "0,25l",
+        "menge": 0,
+        "preis": 3
+      },
+      {
+        "label": "0,4l",
+        "menge": 0,
+        "preis": 4.5
+      }
+    ],
+    "createdAt": "2026-03-16T19:41:26.524Z",
+    "updatedAt": "2026-03-16T19:42:42.277Z"
+  }
+]
